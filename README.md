@@ -18,7 +18,7 @@ To use this repository, simply clone it to your local machine and install the re
 
 ## Dependencies:
 
-1.cPython 3.6 or higher
+1. Python 3.6 or higher
 2. Pandas
 3. Numpy
 4. Matplotlib
